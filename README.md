@@ -1,4 +1,5 @@
 # Challengue - Encriptador de Texto
+![image](https://github.com/wilson202406/EncriptadorTexto/assets/173518308/74ede68c-5bff-473c-a2e1-b9131c2a8aef)
 
 ## Descripción del Proyecto
 Elaborar una aplicación que permita encriptar textos solo en minusculas y sin acentos.
